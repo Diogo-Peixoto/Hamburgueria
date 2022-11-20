@@ -1,5 +1,5 @@
-# Hamburgueria Kenzie
-<p>Hamburgueria kenzie é um site onde o cliente poderá navegar entre as opções de produtos , adicionar ao carrinho e verificar o total da compra.<p/><br>
+# Hamburgueria
+<p>Hamburgueria é um site onde o cliente poderá navegar entre as opções de produtos , adicionar ao carrinho e verificar o total da compra.<p/><br>
 
 ## 🚀 Tecnologias Usadas
 <div>
@@ -17,7 +17,7 @@
 <p>✔ Verificar total do carrinho</p>
 
 ## 💻 Link da página
-https://hamburgueria-kenzie-7tg93rllj-diogo-peixoto.vercel.app/
+https://hamburgueria-nine-delta.vercel.app/
 
 <a href="mailto:diogosoarespeixoto41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/diogo-soares-peixoto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
